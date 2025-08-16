@@ -13,4 +13,9 @@ This project uses Machine Learning to recommend the best crop and fertilizer bas
 
 ## 📊 Models
 - Decision Tree Classifier for Crop Recommendation  
-- ML model for Fertilizer Prediction
+- Decision Tree Classifier for Fertilizer Prediction
+
+## 🎯Applications
+- Helps farmers choose the best crop based on soil and weather.
+- Recommends fertilizers to improve productivity.
+- Can be extended to build a web app for real-time recommendations.
